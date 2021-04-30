@@ -1,4 +1,4 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, Anmol here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **Anmol2001/Anmol2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Anmol's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
+"No prerequities can beat motivation for a project."
+
+Love to work on amazing projects on Data Science and ML. 
 
 
 
