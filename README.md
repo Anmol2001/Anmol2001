@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Anmolpr27483657">
   <img align="left" alt="Anmol's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
    </a>
-<a href="https:/www.linkedin.com/in/anmolpreet-singh-5ab048199">
+<a href="https://www.linkedin.com/in/anmolpreet-singh-5ab048199">
   <img align="left" alt="Anmol's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
