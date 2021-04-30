@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Anmol's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-"No prerequities can beat motivation for a project."
+- 🔭 "No prerequities can beat motivation for a project."
 
-Love to work on amazing projects on Data Science and ML. 
+- 🌱 Love to work on amazing projects on Data Science and ML. 
 
 
 
